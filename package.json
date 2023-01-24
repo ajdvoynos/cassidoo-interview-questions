@@ -1,0 +1,22 @@
+{
+  "name": "cassidoo-interview-questions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha src/**/test.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdvoynos/cassidoo-interview-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajdvoynos/cassidoo-interview-questions/issues"
+  },
+  "homepage": "https://github.com/ajdvoynos/cassidoo-interview-questions#readme",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
